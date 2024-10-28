@@ -28,6 +28,7 @@ Backdoor Attack Detection:
 
 Data Preprocessing: Standardized attributes and removed unnecessary columns.
 PCA: Reduced dimensionality to capture essential variations.
+
 K-means Clustering: Applied with EM optimization for identifying patterns and potential anomalies.
 
 Credit Card Fraud Detection:
