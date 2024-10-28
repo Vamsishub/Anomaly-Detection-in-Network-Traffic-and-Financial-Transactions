@@ -16,8 +16,11 @@ Data Visualization: Utilizes t-SNE for visualizing high-dimensional data, emphas
 
 ## Technical Skills Demonstrated
 Data Analysis: Proficient in preprocessing, analyzing, and visualizing large datasets using Python libraries such as Pandas, NumPy, and Matplotlib.
+
 Machine Learning Algorithms: Hands-on experience with various machine learning techniques including PCA, K-means, Auto-Encoders, and t-SNE, demonstrating a strong foundation in machine learning principles.
+
 Problem-Solving: Ability to tackle complex problems related to cybersecurity and financial fraud through innovative data-driven solutions.
+
 Research Acumen: Familiarity with the latest methodologies in anomaly detection, contributing to ongoing improvements in cybersecurity practices.
 
 ## Methodology
@@ -35,9 +38,9 @@ t-SNE Visualization: Used for effective visualization of transaction clusters, e
 Backdoor Dataset: Visualized K-means clusters in a 2D PCA scatter plot, identifying trends in network traffic anomalies.
 Credit Card Dataset: Showcased t-SNE embeddings, revealing clusters indicative of potentially fraudulent transactions.
 
-## Limitations and Future Work
+## Limitations 
 Acknowledges limitations of PCA and K-means due to assumptions about data distribution, and emphasizes the need for further model enhancements and integration of domain-specific knowledge.
-Suggests future work to combine various anomaly detection algorithms for improved accuracy and reliability in real-world applications.
+
 
 ## Conclusion
 This project illustrates the application of advanced data analysis techniques in anomaly detection, showcasing a robust understanding of machine learning and data visualization. It lays the groundwork for future exploration in enhancing cybersecurity measures and financial fraud detection.
