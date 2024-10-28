@@ -5,9 +5,13 @@ This project leverages advanced data analysis techniques to address critical cha
 
 ## Key Highlights
 Dual-Approach Analysis: Implements two distinct methodologies—PCA with K-means clustering for network traffic analysis and Auto-Encoder with t-SNE for credit card transaction analysis, showcasing versatility in handling different types of datasets.
+
 Feature Extraction and Dimensionality Reduction: Utilizes PCA for reducing dimensionality and enhancing interpretability, highlighting skills in data preprocessing and feature engineering.
+
 Clustering Techniques: Employs K-means with EM optimization to identify potential anomalies in network traffic, demonstrating proficiency in unsupervised learning methods.
+
 Deep Learning Integration: Incorporates Auto-Encoders for feature extraction, showcasing knowledge in neural networks and their applications in anomaly detection.
+
 Data Visualization: Utilizes t-SNE for visualizing high-dimensional data, emphasizing ability to communicate complex results effectively.
 
 ## Technical Skills Demonstrated
