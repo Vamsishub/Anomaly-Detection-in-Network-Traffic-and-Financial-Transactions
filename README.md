@@ -29,13 +29,16 @@ Backdoor Attack Detection:
 Data Preprocessing: Standardized attributes and removed unnecessary columns.
 PCA: Reduced dimensionality to capture essential variations.
 K-means Clustering: Applied with EM optimization for identifying patterns and potential anomalies.
+
 Credit Card Fraud Detection:
 
 Auto-Encoder: Utilized for encoding the transaction data into a lower-dimensional latent space.
+
 t-SNE Visualization: Used for effective visualization of transaction clusters, enabling insights into potential fraudulent activities.
 
 ## Results
 Backdoor Dataset: Visualized K-means clusters in a 2D PCA scatter plot, identifying trends in network traffic anomalies.
+
 Credit Card Dataset: Showcased t-SNE embeddings, revealing clusters indicative of potentially fraudulent transactions.
 
 ## Limitations 
